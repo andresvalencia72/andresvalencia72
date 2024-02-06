@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Web App Developer | Bogotá, Colombia 🇨🇴 | Spain 🇪🇸</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/100rabhcsmc?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github.com/andresvalencia72?tab=followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/100rabhcsmc?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
