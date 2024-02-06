@@ -12,14 +12,14 @@
 
 ## About Me
 
-- 🌱 Currently working at [Griffyn Robotech Private Limited](https://phoenix.tech/griffyn/)
-- 🔭 Working on Mobile App Development with React Native
-- 🤝 Available for freelance projects
-- 📚 Currently learning Swift & SwiftUI
-- 📝 Regularly writing articles on [DEV Community](https://dev.to/100rabhcsmc)
-- 💬 Ask me about React.js & React Native development
-- 📫 Reach me at [saurabhchavan052@gmail.com](mailto:saurabhchavan052@gmail.com)
-- 📄 Check out my [Resume](https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf)
+## About Me
+
+- 🌱 **Experiencia Profesional:** Soy estudiante del ciclo formativo de grado superior en desarrollo de aplicaciones web.
+- 🔭 **Proyectos Actuales:** Actualmente, estoy inmerso en el aprendizaje de tecnologías como Flutter, ya que me apasiona el desarrollo móvil. Estoy abierto a participar en proyectos freelance que me permitan aplicar y ampliar mis conocimientos.
+- 🌱 **Tecnologías que estoy aprendiendo:** Mi enfoque de aprendizaje incluye JavaScript, HTML, CSS, PHP, MySQL para bases de datos, así como Dart para trabajar con Flutter. Además, estoy explorando Docker para gestionar mis entornos de desarrollo de manera eficiente.
+- 💻 **Áreas de Especialización:** Me siento especialmente atraído por el frontend, donde puedo combinar mi creatividad con mis habilidades técnicas para crear experiencias de usuario atractivas y funcionales.
+- 📫 **Contacto:** Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mi correo personal: andresvalencia7270@gmail.com.
+
 
 ## Connect with Me 🤝
 
