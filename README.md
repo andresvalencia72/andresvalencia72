@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/andresvalencia72?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/100rabhcsmc?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/andresvalencia72?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
 <p align="center">
