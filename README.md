@@ -12,8 +12,6 @@
 
 ## About Me
 
-## About Me
-
 - 🌱 **Experiencia Profesional:** Soy estudiante del ciclo formativo de grado superior en desarrollo de aplicaciones web.
 - 🔭 **Proyectos Actuales:** Actualmente, estoy inmerso en el aprendizaje de tecnologías como Flutter, ya que me apasiona el desarrollo móvil. Estoy abierto a participar en proyectos freelance que me permitan aplicar y ampliar mis conocimientos.
 - 🌱 **Tecnologías que estoy aprendiendo:** Mi enfoque de aprendizaje incluye JavaScript, HTML, CSS, PHP, MySQL para bases de datos, así como Dart para trabajar con Flutter. Además, estoy explorando Docker para gestionar mis entornos de desarrollo de manera eficiente.
