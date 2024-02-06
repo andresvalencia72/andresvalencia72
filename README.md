@@ -22,28 +22,13 @@
 ## Connect with Me 🤝
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurabhmchavan/" target="_blank">
+  <a href="https://www.linkedin.com/in/andres-valencia-b1009123a/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/100rabhcsmc" target="_blank">
+  <a href="https://github.com/andresvalencia72/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" />
   </a>
-  <a href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow" />
-  </a>
-  <a href="https://dev.to/100rabhcsmc" target="_blank">
-    <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png" alt="DEV Community" />
-  </a>
-  <a href="https://instagram.com/100rabhch" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/100rabhcsmc" target="_blank">
-    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="Twitter" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber" target="_blank">
-    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube" />
-  </a>
-  <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank">
-    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" alt="Resume" />
   </a>
 </p>
