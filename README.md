@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Andrés Valencia</a>! 👋</h1>
-<h3 align="center">Passionate Web App Developer | Bogotá, Colombia 🇨🇴 | Spain 🇪🇸 
+<h3 align="center">Passionate Web App Developer | Bogotá, Colombia 🇨🇴 | Spain 🇪🇸 📌 
 
 </h3>
 
