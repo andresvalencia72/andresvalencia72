@@ -1,5 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Andrés Valencia</a>! 👋</h1>
-<h3 align="center">Passionate Web App Developer | Bogotá, Colombia 🇨🇴 | Spain 🇪🇸</h3>
+<h3 align="center">Passionate Web App Developer | Bogotá, Colombia 🇨🇴 | Spain 🇪🇸 
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-map-pin" width="20" height="20" viewBox="0 0 24 24" stroke-width="1.5" stroke="#ff2825" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+  <path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1 -2.827 0l-4.244 -4.243a8 8 0 1 1 11.314 0z" />
+</svg>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/andresvalencia72?label=Followers&style=social" alt="GitHub Followers" />
