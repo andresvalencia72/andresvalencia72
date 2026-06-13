@@ -22,7 +22,7 @@ Web developer focused on building complete, production-ready websites and web ap
 
 ## 🚀 Featured Projects
 
-### [Project name](#)
+### [Lit UI Kit](https://github.com/andresvalencia72/lit-ui-kit)
 What it does and the problem it solves, in one or two lines.  
 **Stack:** React · Node.js · PostgreSQL  
 🔗 [Live demo](#) · 📂 [Source](#)
