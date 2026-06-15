@@ -1,93 +1,108 @@
-# 👋 Hola, soy Andrés Valencia
+<p align="center">
+  <strong>Español</strong> · <a href="README.md">English</a>
+</p>
 
-## Desarrollador Web Full Stack
+<h1 align="center">Andrés Valencia</h1>
+<p align="center" style="font-size: 1.2em; color: #666;">Desarrollador Web Full Stack</p>
 
-[![Ubicación](https://img.shields.io/badge/📍_En-España-blue)](https://www.google.com/maps/place/Spain)
-[![Idiomas](https://img.shields.io/badge/🌐_Idiomas-Español/Inglés-green)]()
-[![Trabajo](https://img.shields.io/badge/💼_Abierto_a-Trabajo_Remoto-orange)]()
+<p align="center">
+  Desarrollador web centrado en construir sitios y aplicaciones web completos y listos para producción. Trabajo de principio a fin —interfaces frontend, lógica backend y despliegue— y me manejo llevando un proyecto por mi cuenta de inicio a fin.
+</p>
+<p align="center">
+  Actualmente trabajo 100% en remoto y abierto a nuevas oportunidades.
+</p>
 
----
-
-### 📝 Sobre mí
-
-Desarrollador web centrado en construir sitios y aplicaciones web completos y listos para producción. Trabajo de principio a fin —interfaces frontend, lógica backend y despliegue— y me manejo llevando un proyecto por mi cuenta de inicio a fin.
-
-Actualmente trabajo 100% en remoto y abierto a nuevas oportunidades.
-
----
-
-### 🛠️ Stack Técnico
-
-#### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-000000?style=for-the-badge&logo=api&logoColor=white)
-
-#### Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### CMS
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-- Temas a medida y sitios completos para clientes
-
-#### Herramientas y DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlemaps.svg" width="16" height="16" style="vertical-align: middle;" /> En España &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googletranslate.svg" width="16" height="16" style="vertical-align: middle;" /> Español / Inglés &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/workplace.svg" width="16" height="16" style="vertical-align: middle;" /> Abierto a trabajo en remoto
+</p>
 
 ---
 
-### 🚀 Proyectos Destacados
+## TECNOLOGÍAS
 
-#### [Nombre del proyecto](#)
-Qué hace y qué problema resuelve, en una o dos líneas.  
-**Stack:** React · Node.js · PostgreSQL  
-🔗 [Demo en vivo](#) · 📂 [Código](#)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align: middle;" /> JavaScript (ES6+) &nbsp;·&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" style="vertical-align: middle;" /> TypeScript &nbsp;·&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" style="vertical-align: middle;" /> React &nbsp;·&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="20" height="20" style="vertical-align: middle;" /> Angular
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" style="vertical-align: middle;" /> Node.js &nbsp;·&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20" style="vertical-align: middle;" /> PHP &nbsp;·&nbsp; 
+APIs REST
 
-#### [Nombre del proyecto](#)
-Qué hace y qué problema resuelve, en una o dos líneas.  
-**Stack:** JavaScript · Web Components · CSS  
-🔗 [Demo en vivo](#) · 📂 [Código](#)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" style="vertical-align: middle;" /> MySQL &nbsp;·&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" style="vertical-align: middle;" /> PostgreSQL
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="20" height="20" style="vertical-align: middle;" /> WordPress &nbsp;·&nbsp; 
+Temas a medida y sitios completos para clientes
 
-#### [Nombre del proyecto](#)
-Qué hace y qué problema resuelve, en una o dos líneas.  
-**Stack:** WordPress · PHP · MySQL  
-🔗 [Demo en vivo](#) · 📂 [Código](#)
-
----
-
-### 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-valencia-b1009123a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresvalencia7270@gmail.com)
-
-📧 andresvalencia7270@gmail.com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" style="vertical-align: middle;" /> Git &nbsp;·&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" style="vertical-align: middle;" /> Docker &nbsp;·&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" height="20" style="vertical-align: middle;" /> GitLab CI/CD
 
 ---
 
-### 📊 Estadísticas de GitHub
+## PROYECTOS DESTACADOS
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=andresvalencia72&show_icons=true&theme=radical&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=andresvalencia72&layout=compact&theme=radical&locale=es)
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://via.placeholder.com/200x150/1a1a2e/ffffff?text=Proyecto+1" alt="Project name" width="200" style="border-radius: 8px;" />
+    </td>
+    <td>
+      <h3>Nombre del proyecto</h3>
+      <p>Qué hace y qué problema resuelve, en una o dos líneas.</p>
+      <p><strong>Stack:</strong> React · Node.js · PostgreSQL</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/arrowupright.svg" width="14" height="14" style="vertical-align: middle;" /> <a href="#">Demo en vivo</a> &nbsp;·&nbsp; 
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="14" height="14" style="vertical-align: middle;" /> <a href="#">Código</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌱 Actualmente aprendiendo...
-
-Siempre explorando nuevas tecnologías y mejores prácticas en desarrollo web.
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://via.placeholder.com/200x150/16213e/ffffff?text=Proyecto+2" alt="Project name" width="200" style="border-radius: 8px;" />
+    </td>
+    <td>
+      <h3>Nombre del proyecto</h3>
+      <p>Qué hace y qué problema resuelve, en una o dos líneas.</p>
+      <p><strong>Stack:</strong> JavaScript · Web Components · CSS</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/arrowupright.svg" width="14" height="14" style="vertical-align: middle;" /> <a href="#">Demo en vivo</a> &nbsp;·&nbsp; 
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="14" height="14" style="vertical-align: middle;" /> <a href="#">Código</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">Hecho con ❤️ por Andrés Valencia</p>
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://via.placeholder.com/200x150/0f3460/ffffff?text=Proyecto+3" alt="Project name" width="200" style="border-radius: 8px;" />
+    </td>
+    <td>
+      <h3>Nombre del proyecto</h3>
+      <p>Qué hace y qué problema resuelve, en una o dos líneas.</p>
+      <p><strong>Stack:</strong> WordPress · PHP · MySQL</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/arrowupright.svg" width="14" height="14" style="vertical-align: middle;" /> <a href="#">Demo en vivo</a> &nbsp;·&nbsp; 
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="14" height="14" style="vertical-align: middle;" /> <a href="#">Código</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## CONTACTO
+
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="16" height="16" style="vertical-align: middle;" /> <a href="https://www.linkedin.com/in/andres-valencia-b1009123a/">LinkedIn</a> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="16" height="16" style="vertical-align: middle;" /> andresvalencia7270@gmail.com
