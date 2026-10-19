@@ -15,6 +15,16 @@
 
 ---
 
+<h3 align="center">Experience</h3>
+
+**Software Engineer** · Codesian Software Tech — 2024 – 2026<br>
+Built product features end to end with JavaScript and Node.js: business logic, UI, PostgreSQL data and Redis caching. Worked with Git Flow, code review and CI/CD pipelines in GitLab, on Docker-based environments.
+
+**Full Stack Developer** · Estudio Ayllon — 2026<br>
+Delivered client websites and applications independently, from layout and frontend to implementation.
+
+---
+
 <h3 align="center">Stack</h3>
 
 <p align="center">

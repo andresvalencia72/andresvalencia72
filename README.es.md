@@ -15,6 +15,16 @@
 
 ---
 
+<h3 align="center">Experiencia</h3>
+
+**Ingeniero de Software** · Codesian Software Tech — 2024 – 2026<br>
+Funcionalidades de producto de punta a punta con JavaScript y Node.js: lógica de negocio, interfaz, PostgreSQL y Redis. Trabajo con Git Flow, revisión de código y pipelines de CI/CD en GitLab, sobre entornos con Docker.
+
+**Desarrollador Full Stack** · Estudio Ayllon — 2026<br>
+Sitios y aplicaciones para clientes entregados de forma autónoma, desde la maquetación y el frontend hasta la implementación.
+
+---
+
 <h3 align="center">Tecnologías</h3>
 
 <p align="center">
