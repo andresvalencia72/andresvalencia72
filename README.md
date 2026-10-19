@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">Andrés Valencia</h1>
-<p align="center"><strong>Full Stack Web Developer</strong> · Junior</p>
+<p align="center"><strong>Full Stack Web Developer</strong></p>
 
 <p align="center">
   I build web applications end to end — interface, API, database and deployment.
 </p>
 
 <p align="center">
-  <strong>Open to junior opportunities — remote, Spain</strong><br>
+  <strong>Open to remote opportunities — Spain</strong><br>
   <sub>Based in Tarragona · Spanish / English</sub>
 </p>
 

@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">Andrés Valencia</h1>
-<p align="center"><strong>Desarrollador Web Full Stack</strong> · Junior</p>
+<p align="center"><strong>Desarrollador Web Full Stack</strong></p>
 
 <p align="center">
   Construyo aplicaciones web de principio a fin: interfaz, API, base de datos y despliegue.
 </p>
 
 <p align="center">
-  <strong>Abierto a oportunidades junior — remoto, España</strong><br>
+  <strong>Abierto a oportunidades remotas — España</strong><br>
   <sub>Con base en Tarragona · Español / Inglés</sub>
 </p>
 
