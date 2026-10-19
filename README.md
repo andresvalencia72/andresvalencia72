@@ -22,11 +22,11 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6">
   <img alt="React" src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-1f2937?style=flat-square&logo=angular&logoColor=DD0031">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-1f2937?style=flat-square&logo=php&logoColor=777BB4">
   <br>
+  <img alt="Java" src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=ED8B00">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED">
   <img alt="Git" src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032">
 </p>
