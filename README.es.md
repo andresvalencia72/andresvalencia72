@@ -33,6 +33,7 @@ Sitios y aplicaciones para clientes entregados de forma autónoma, desde la maqu
   <img alt="React" src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-1f2937?style=flat-square&logo=angular&logoColor=DD0031">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-1f2937?style=flat-square&logo=nestjs&logoColor=E0234E">
   <br>
   <img alt="Java" src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=ED8B00">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-1f2937?style=flat-square&logo=springboot&logoColor=6DB33F">
