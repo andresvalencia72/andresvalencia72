@@ -26,6 +26,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
   <br>
   <img alt="Java" src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=ED8B00">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-1f2937?style=flat-square&logo=springboot&logoColor=6DB33F">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED">
   <img alt="Git" src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032">
