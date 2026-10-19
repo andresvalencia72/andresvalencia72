@@ -1,45 +1,46 @@
 <div align="center">
-  <a href="README.es.md">Español</a> · <strong>English</strong>
+  <sub><strong>English</strong> · <a href="README.es.md">Español</a></sub>
 </div>
 
 <h1 align="center">Andrés Valencia</h1>
-<p align="center"><strong>Full Stack Web Developer</strong> · JavaScript · React · Node.js</p>
+<p align="center"><strong>Full Stack Web Developer</strong> · Junior</p>
 
 <p align="center">
-  I build web products end to end: interface, API, database and deployment.<br>
-  Currently studying DAW and open to remote opportunities in Spain.
+  I build web applications end to end — interface, API, database and deployment.<br>
+  Currently studying DAW (Desarrollo de Aplicaciones Web).
 </p>
 
 <p align="center">
-  Spain &nbsp;·&nbsp; Spanish / English &nbsp;·&nbsp; Open to remote
+  <strong>Open to junior opportunities — remote, Spain</strong><br>
+  <sub>Based in Tarragona · Spanish / English</sub>
 </p>
 
 ---
 
-### Stack
+<h3 align="center">Stack</h3>
 
-`JavaScript` `TypeScript` `React` `Node.js` `PHP` `PostgreSQL` `MySQL` `Docker` `Git` `WordPress`
-
----
-
-### Selected work
-
-**[Centralita](https://github.com/andresvalencia72/centralita)** — Self-hosted VoIP PBX on Docker
-MikoPBX deployment with persistent volumes and a permanent fix for RTP audio behind Docker/NAT.
-`Docker` `MikoPBX` `SIP` `Docker Compose`
-
-**[WordPress theme](https://github.com/andresvalencia72/wordpress-theme)** — Custom theme built from scratch
-Custom post types, page templates, widget areas, blog templates and a gallery with lightbox.
-`PHP` `WordPress` `MySQL` `JavaScript`
-
-**[Valencia Fullstack](https://github.com/andresvalencia72/valenciafullstack)** — Portfolio planned spec-first
-13 capability specs, architecture decisions and a phased roadmap written before the first line of code. Implementation in progress.
-`Next.js` `TypeScript` `PostgreSQL` `TDD`
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6">
+  <img alt="React" src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-1f2937?style=flat-square&logo=php&logoColor=777BB4">
+  <br>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED">
+  <img alt="Git" src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-1f2937?style=flat-square&logo=wordpress&logoColor=21759B">
+</p>
 
 ---
 
-### Contact
+<h3 align="center">Contact</h3>
 
-[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-felipe-valencia-ariza-b1009123a/) &nbsp;·&nbsp;
-[Email](mailto:andresvalencia7270@gmail.com) &nbsp;·&nbsp;
-[YouTube](https://www.youtube.com/@codeink1)
+<p align="center">
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-valencia-ariza-b1009123a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=0A66C2"></a>
+  <a href="mailto:andresvalencia7270@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=EA4335"></a>
+  <a href="https://www.youtube.com/@codeink1"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-1f2937?style=flat-square&logo=youtube&logoColor=FF0000"></a>
+</p>
+
+<p align="center"><sub>andresvalencia7270@gmail.com</sub></p>
