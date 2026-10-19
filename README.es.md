@@ -6,8 +6,7 @@
 <p align="center"><strong>Desarrollador Web Full Stack</strong> · Junior</p>
 
 <p align="center">
-  Construyo aplicaciones web de principio a fin: interfaz, API, base de datos y despliegue.<br>
-  Actualmente estudio DAW (Desarrollo de Aplicaciones Web).
+  Construyo aplicaciones web de principio a fin: interfaz, API, base de datos y despliegue.
 </p>
 
 <p align="center">

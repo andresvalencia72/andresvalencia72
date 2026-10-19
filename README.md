@@ -6,8 +6,7 @@
 <p align="center"><strong>Full Stack Web Developer</strong> · Junior</p>
 
 <p align="center">
-  I build web applications end to end — interface, API, database and deployment.<br>
-  Currently studying DAW (Desarrollo de Aplicaciones Web).
+  I build web applications end to end — interface, API, database and deployment.
 </p>
 
 <p align="center">
