@@ -29,7 +29,6 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED">
   <img alt="Git" src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032">
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-1f2937?style=flat-square&logo=wordpress&logoColor=21759B">
 </p>
 
 ---
