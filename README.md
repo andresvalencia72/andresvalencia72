@@ -21,7 +21,7 @@
 Built WooCommerce/PrestaShop features and automated deployments using GitHub Actions.
 
 **Software Developer** · Codesian Software Tech — Feb 2025 – Apr 2026<br>
-Built group video calls with React, NestJS and WebRTC/mediasoup, and contributed to emergency-management software with Angular and PostGIS. Worked with Docker, GitLab CI/CD and automated tests.
+Built group video calls with React, NestJS and WebRTC/mediasoup, and built Java/Spring Boot services and an Angular dashboard for emergency coordination using PostGIS. Worked with Docker, GitLab CI/CD and automated tests.
 
 **Software Development Intern** · Codesian Software Tech — Mar – May 2024<br>
 Curricular internship as part of the Higher Vocational Diploma in Web Application Development.
@@ -44,6 +44,14 @@ Curricular internship as part of the Higher Vocational Diploma in Web Applicatio
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED">
   <img alt="Git" src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032">
 </p>
+
+---
+
+<h3 align="center">Project in progress</h3>
+
+**[PlantOps](https://github.com/andresvalencia72/plantops)** — Industrial maintenance management with assets, incidents and work orders. An engineering project using React/TypeScript and NestJS, focusing on domain rules, authorization, traceability and tests.
+
+**Current status:** implementation lives in [stacked development PRs](https://github.com/andresvalencia72/plantops/pulls?q=is%3Apr+is%3Aopen); `main` currently contains documentation. Work in progress, not a released product.
 
 ---
 
