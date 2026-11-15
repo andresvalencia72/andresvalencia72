@@ -17,11 +17,14 @@
 
 <h3 align="center">Experience</h3>
 
-**Software Engineer** · Codesian Software Tech — 2024 – 2026<br>
-Built product features end to end with JavaScript and Node.js: business logic, UI, PostgreSQL data and Redis caching. Worked with Git Flow, code review and CI/CD pipelines in GitLab, on Docker-based environments.
+**Full Stack Developer** · Estudio Ayllon — Apr 2026 – Oct 2026<br>
+Built WooCommerce/PrestaShop features and automated deployments using GitHub Actions.
 
-**Full Stack Developer** · Estudio Ayllon — 2026<br>
-Delivered client websites and applications independently, from layout and frontend to implementation.
+**Software Developer** · Codesian Software Tech — Feb 2025 – Apr 2026<br>
+Built group video calls with React, NestJS and WebRTC/mediasoup, and contributed to emergency-management software with Angular and PostGIS. Worked with Docker, GitLab CI/CD and automated tests.
+
+**Software Development Intern** · Codesian Software Tech — Mar – May 2024<br>
+Curricular internship as part of the Higher Vocational Diploma in Web Application Development.
 
 ---
 
@@ -47,9 +50,10 @@ Delivered client websites and applications independently, from layout and fronte
 <h3 align="center">Contact</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-valencia-ariza-b1009123a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=0A66C2"></a>
+  <a href="https://www.linkedin.com/in/andres-felipe-valencia-ariza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=0A66C2"></a>
+  <a href="https://razonko.com/"><img alt="Razonko" src="https://img.shields.io/badge/Razonko-1f2937?style=flat-square&logo=googlechrome&logoColor=FFFFFF"></a>
   <a href="mailto:andresvalencia7270@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=EA4335"></a>
-  <a href="https://www.youtube.com/@codeink1"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-1f2937?style=flat-square&logo=youtube&logoColor=FF0000"></a>
+  <a href="https://www.youtube.com/@Razonko-r7h"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-1f2937?style=flat-square&logo=youtube&logoColor=FF0000"></a>
 </p>
 
 <p align="center"><sub>andresvalencia7270@gmail.com</sub></p>
