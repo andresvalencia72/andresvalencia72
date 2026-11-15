@@ -21,7 +21,7 @@
 Desarrollé funcionalidades para WooCommerce/PrestaShop y automaticé despliegues con GitHub Actions.
 
 **Desarrollador de software** · Codesian Software Tech — feb. 2025 – abr. 2026<br>
-Implementé videollamadas grupales con React, NestJS y WebRTC/mediasoup, y contribuí a un sistema de emergencias con Angular y PostGIS. Trabajé con Docker, GitLab CI/CD y pruebas automatizadas.
+Implementé videollamadas grupales con React, NestJS y WebRTC/mediasoup, y desarrollé servicios Java/Spring Boot y un panel Angular para coordinar emergencias, con consultas PostGIS. Trabajé con Docker, GitLab CI/CD y pruebas automatizadas.
 
 **Estudiante en prácticas** · Codesian Software Tech — mar. – may. 2024<br>
 Prácticas curriculares del CFGS de Desarrollo de Aplicaciones Web.
@@ -44,6 +44,14 @@ Prácticas curriculares del CFGS de Desarrollo de Aplicaciones Web.
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED">
   <img alt="Git" src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032">
 </p>
+
+---
+
+<h3 align="center">Proyecto en desarrollo</h3>
+
+**[PlantOps](https://github.com/andresvalencia72/plantops)** — Plataforma de gestión de mantenimiento industrial con activos, incidencias y órdenes de trabajo. Trabajo de ingeniería con React/TypeScript y NestJS: reglas de dominio, permisos, trazabilidad y pruebas.
+
+**Estado real:** el código está en [PR de desarrollo encadenadas](https://github.com/andresvalencia72/plantops/pulls?q=is%3Apr+is%3Aopen); la rama `main` conserva por ahora la documentación. Proyecto en curso, no producto publicado.
 
 ---
 
